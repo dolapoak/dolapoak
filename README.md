@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdulraheem Dolapo
 
-<!--
-**dolapoak/dolapoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | React • TypeScript • Supabase
 
-Here are some ideas to get you started:
+I build responsive web applications and practical digital solutions
+using modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about turning ideas into useful, scalable and
+user-friendly software.
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Developer focused on modern web applications
+- ⚛️ Building with React, TypeScript and JavaScript
+- 🗄️ Working with Supabase and PostgreSQL
+- 🔧 Using Git and GitHub for collaborative development
+- 🏢 Currently contributing to software projects at NERD Technologies
+- 🌱 Continuously improving my frontend, backend and system design skills
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,vite" />
+</p>
+
+### 🗄️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres" />
+</p>
+
+### 🛠️ Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
+
+---
