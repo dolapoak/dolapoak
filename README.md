@@ -1,13 +1,11 @@
 # Hi, I'm Dolapo 👋🏾
 
 ### Full-Stack Developer | React • TypeScript • Supabase
-
 I'm a Full-Stack Developer and Economics graduate interested in
 FinTech, Web3, financial technology and data-driven products.
 
 Currently focused on building software products
 and deepening my full-stack engineering skills.
-
 I build responsive web applications and practical digital solutions
 using modern web technologies.
 
